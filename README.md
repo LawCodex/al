@@ -45,7 +45,7 @@ headings, all-caps divisions (PJESA, KREU, TITULLI…) `###`. Footnotes of the P
 
 ## Licence
 
-Under Albanian Law no. 35/2016 on copyright (art. 9), official texts of a legislative,
+Under Albanian copyright law (Law no. 35/2016), official texts of a legislative,
 administrative or judicial nature are not protected by copyright. Texts as published by QBZ.
 
 ## Regenerating
